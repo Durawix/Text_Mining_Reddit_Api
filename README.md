@@ -42,6 +42,11 @@ Through this project, I learned how to:
 
 - **Jupyter Notebook** as the primary development environment
 
+  ![image](https://github.com/user-attachments/assets/3c2c48c3-b580-4953-9276-f0921ee65783)
+
+
+
+
 ## 📦 Files & structure
 - reddit_relationships_posts.csv – dataset of Reddit r/relationships posts (title + text)
 
